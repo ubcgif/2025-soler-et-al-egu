@@ -54,3 +54,7 @@ abstract: |
   planning phases, and decision-making for carbon sequestration feasibility in
   a given area.
 ---
+
+## Poster
+
+![EGU2025 Poster](poster/egu2025-soler.png)
