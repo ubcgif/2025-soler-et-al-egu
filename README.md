@@ -1,2 +1,60 @@
-# template-repository-conference
-template repository for conference proceedings
+# '3D geophysical inversions to characterize carbon sequestration potential of ultramafic rocks'
+
+## Poster
+
+![EGU2025 Poster](poster/egu2025-soler.png)
+
+## Abstract
+
+Carbon mineralization in ultramafic rocks has been proven to be one of the ways
+of sequestering CO<sub>2</sub> from the atmosphere to mitigate climate change
+effects and limit global temperature increases to values compatible with life
+on Earth as we know it.
+The sequestration of CO<sub>2</sub> in ultramafic rocks takes place during
+reactions between minerals rich in Mg, like brucite and serpentine, and
+CO<sub>2</sub>-bearing fluids.
+The results of these reactions are carbonate minerals that trap the
+CO<sub>2</sub> in a geologically and chemically stable form.
+Such Mg-rich minerals are present in higher concentrations in ultramafic rocks
+that have undergone serpentinization.
+Serpentinized rocks tend to have higher concentrations of these Mg-rich
+minerals as compared to the unaltered and carbonated ones.
+This means that serpentinized rocks have greater sequestration potential than
+their unaltered and carbonated counterparts.
+
+The physical properties of ultramafic rocks undergo measurable changes during
+serpentinization and carbonation reactions.
+Serpentinized ultramafic rocks have a lower density and tend to have higher
+magnetic susceptibility than their unaltered and carbonated counterparts.
+These changes in their physical properties open the opportunity to apply
+geophysical techniques to map the spatial distribution of serpentinized rocks
+and estimate their sequestration potential.
+
+We applied 3D geophysical inversion on airborne gravity gradiometry and
+magnetic data over the Crawford Nickel Sulphide Project (north of Timmins,
+Ontario, Canada) to obtain 3D models of the density and magnetic susceptibility
+distributions of the subsurface.
+We integrated these recovered models to estimate the carbon sequestration
+potential of the rocks.
+
+We applied independent Tikhonov inversions to both the gravity gradiometry and
+magnetic datasets along with a joint Petrophysically-Guided Inversions (PGI).
+We trained a regression model to predict spatial distributions of Loss of
+Ignition (LOI) values in the subsurface from the inverted results of density
+and magnetic susceptibility.
+The LOI works as a proxy variable for alteration levels:
+unaltered ultramafic rocks have low LOI values (<5%), followed by serpentinized
+rocks with high sequestration potential (between 10% and 13%), and carbonated
+rocks with even greater LOI values (>14%). The estimated LOI values obtained
+after the inverted 3D models can be used as a metric to infer the alteration
+levels of the rocks and their location in the subsurface.
+
+The recovered 3D model of LOI is in good agreement with LOI estimations
+obtained from physical property observations carried out in borehole samples.
+These results show that 3D inversions of gravity gradiometry and magnetic data
+are a viable technique to characterize the sequestration potential and the
+spatial distribution of ultramafic rocks in the subsurface.
+Geophysical data acquisition and 3D inversions can be used as a meaningful
+source of knowledge that can complement the geologic exploration, drilling
+planning phases, and decision-making for carbon sequestration feasibility in
+a given area.
