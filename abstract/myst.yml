@@ -1,53 +1,55 @@
 version: 1
+
 project:
-  # id: ubcgif-YEAR-AUTHORS-CONFERENCE
-  # title: TITLE
-  # description: DESCRIPTION
+  id: ubcgif-2025-soler-et-al-egu
+  title: 3D geophysical inversions to characterize carbon sequestration potential of ultramafic rocks
+  description: Poster presented at EGU2025
   authors:
-    # - name: AUTHOR 1
-    #   email: EMAIL
-    #   corresponding: true
-    #   orcid: ORCID
-    #   affiliation:
-    #     id: ubc
-    #     name: Geophysical Inversion Facility, University of British Columbia, Vancouver, British Columbia
-    # - name: Lindsey J. Heagy
-    #   email: lheagy@eoas.ubc.ca
-    #   corresponding: true
-    #   orcid: 0000-0002-1551-5926
-    #   affiliation: ubc
-    # - name: Douglas W. Oldenburg
-    #   affiliation: ubc
-    #   email: doug@eos.ubc.ca
-    #   orcid: 0000-0002-4327-2124
-  # banner: banner.png
+    - name: Santiago Soler
+      email: ssoler@eoas.ubc.ca
+      corresponding: true
+      orcid: 0000-0001-9202-5317
+      affiliation:
+        id: ubc
+        name: Geophysical Inversion Facility, University of British Columbia, Vancouver, British Columbia
+    - name: Joseph Capriotti
+      affiliation:
+        name: Center for Gravity, Electrical, and Magnetic Studies (CGEM), Colorado School of Mines, Colorado, United States
+    - name: Douglas W. Oldenburg
+      affiliation: ubc
+      email: doug@eos.ubc.ca
+      orcid: 0000-0002-4327-2124
+    - name: Lindsey J. Heagy
+      email: lheagy@eoas.ubc.ca
+      corresponding: false
+      orcid: 0000-0002-1551-5926
+      affiliation: ubc
+  banner: banner.png
   thumbnail: thumbnail.png
   # subject: Electromagnetics
   venue:
-    # title: CONFERENCE NAME
-    # url: CONFERENCE URL
-  # license: CC-BY-4.0
-  # open_access: true
-  # doi: DOI
-  # date: YYYY-MM-DD
+    title: European Geophysical Union General Assembly 2025
+    url: https://www.egu25.eu/
+  license: CC-BY-4.0
+  open_access: true
+  doi: 10.5194/egusphere-egu25-13551
+  date: 2025-05-01
   abbreviations:
-    # DC: direct current
-    # EM: electromagnetics
-  # github:
-  # bibliography: []
-  # keywords:
-  #   - Controlled source electromagnetics (CSEM)
-  #   - Downhole methods
-  #   - Numerical modelling
-  #   - Electrical properties
-  #   - Magnetic properties
+    LOI: Loss on ignition
+  github: https://github.com/santisoler/egu2025
+  bibliography:
+    - Cockett, R., Kang, S., Heagy, L. J., Pidlisecky, A., & Oldenburg, D. W. (2015). SimPEG: An open source framework for simulation and gradient based parameter estimation in geophysical applications. Computers & Geosciences, 85, 142–154. https://doi.org/10.1016/j.cageo.2015.09.015
+    - Cutts, J. A., Steinthorsdottir, K., Turvey, C., Dipple, G. M., Enkin, R. J., & Peacock, S. M. (2021). Deducing Mineralogy of Serpentinized and Carbonated Ultramafic Rocks Using Physical Properties With Implications for Carbon Sequestration and Subduction Zone Dynamics. Geochemistry, Geophysics, Geosystems, 22(9). https://doi.org/10.1029/2021GC009989
+    - Mitchinson, D., Cutts, J., Fournier, D., Naylor, A., Dipple, G., Hart, C. J. R., Turvey, C., Rahimi, M., Milidragovic, D., & Bc, G. (2020). The Carbon Mineralization Potential of Ultramafic Rocks in British Columbia: A Preliminary Assessment. 27.
+  keywords:
+      - Carbon mineralization
+      - Gravity inversion
+      - Magnetic inversion
+
 site:
   template: article-theme
   actions:
-    # - title: pdf
-    #   url: ARTICLE-NAME.pdf
-    #   static: true
-    # - title: slides
-    #   url: presentation/SLIDES-NAME.pdf
-    #   static: true
+    - title: pdf
+      url: poster/egu2025-soler.pdf
+      static: true
   # domains: []
