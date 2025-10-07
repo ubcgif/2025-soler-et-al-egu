@@ -1,8 +1,10 @@
-# '3D geophysical inversions to characterize carbon sequestration potential of ultramafic rocks'
+# 3D geophysical inversions to characterize carbon sequestration potential of ultramafic rocks
 
 ## Poster
 
-![EGU2025 Poster](poster/egu2025-soler.png)
+[![EGU2025 Poster](poster/egu2025-soler.png)](poster/poster/egu2025-soler.png)
+
+Download poster as a [PDF](poster/egu2025-soler.pdf).
 
 ## Abstract
 
