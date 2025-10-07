@@ -35,7 +35,9 @@ project:
   doi: 10.5194/egusphere-egu25-13551
   date: 2025-05-01
   abbreviations:
+    Mg: Magnesium 
     LOI: Loss on ignition
+    PGI: Petrophysically and Geologically guided Inversion
   github: https://github.com/santisoler/egu2025
   bibliography:
     - Cockett, R., Kang, S., Heagy, L. J., Pidlisecky, A., & Oldenburg, D. W. (2015). SimPEG: An open source framework for simulation and gradient based parameter estimation in geophysical applications. Computers & Geosciences, 85, 142–154. https://doi.org/10.1016/j.cageo.2015.09.015
