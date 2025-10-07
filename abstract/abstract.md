@@ -4,7 +4,7 @@ title: '3D geophysical inversions to characterize carbon sequestration potential
 
 ## Poster
 
-![EGU2025 Poster](poster/egu2025-soler.png)
+[![EGU2025 Poster](poster/egu2025-soler.png)](poster/egu2025-soler.png)
 
 ## Abstract
 
