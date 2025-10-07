@@ -2,9 +2,9 @@
 
 ## Poster
 
-[![EGU2025 Poster](poster/egu2025-soler.png)](poster/poster/egu2025-soler.png)
+[![EGU2025 Poster](abstract/poster/egu2025-soler.png)](abstract/poster/egu2025-soler.png)
 
-Download poster as a [PDF](poster/egu2025-soler.pdf).
+Download poster as a [PDF](abstract/poster/egu2025-soler.pdf).
 
 ## Abstract
 
